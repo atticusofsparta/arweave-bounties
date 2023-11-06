@@ -1,0 +1,15 @@
+{
+  "name": "arweave-bounties",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.ts",
+  "repository": "https://github.com/atticusofsparta/arweave-bounties.git",
+  "author": "atticusofsparta <atticusofsparta@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "arweave": "^1.14.4",
+    "eslint": "^8.53.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.0.3"
+  }
+}
